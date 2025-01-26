@@ -1,4 +1,4 @@
-<h1 align="center">Challange - Amigo Secreto</h1>
+<h1 align="center">Challenge - Amigo Secreto</h1>
 
 <p align="center">
 Desafio proposto durante curso de Lógica de Programação oferecido pela Alura em parceria com Oracle ONE.
