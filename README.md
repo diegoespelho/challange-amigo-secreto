@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 
 ## 💻 Projeto
 
-Challange - Amigo Secreto.
+Challenge - Amigo Secreto.
 
 - [Acesse o projeto finalizado aqui](https://diegoespelho.github.io/challange-amigo-secreto/)
 
